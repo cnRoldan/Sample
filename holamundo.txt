@@ -1,1 +1,3 @@
 Hola mundo
+
+Este es un fichero de prueba, y lo acaba de modificar otra persona
